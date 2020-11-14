@@ -1,5 +1,6 @@
 # RTC
-FirebaseRTC on Google
+
+the only solution currently available to enable high frame rate and low-bandwidth streaming to a web browser.
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/RTC/main/RTC_Architecture.png)
 
