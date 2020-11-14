@@ -65,3 +65,7 @@ Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC
 # RTC Concept
 
 to be continued...
+
+# Alternative Protocols
+
+The H.264 profile for WebRTC does not support lossless encoding. If you require lossless formats, you should consider other solutions such as PCoIP from Teradici.
