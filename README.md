@@ -43,3 +43,7 @@ FirebaseRTC on Google
 以及來自各方的帶有 ICE 候選人的兩個單獨的集合。
 
 該ID用作Cloud Firestore中每個房間的密鑰。
+
+# RTC Concept
+
+to be contionued...
