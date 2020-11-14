@@ -20,6 +20,8 @@ Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC
 
 * Retail
 
+* VR
+
 # Nodejs APP
 
     git clone https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App.git
