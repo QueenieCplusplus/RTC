@@ -1,6 +1,8 @@
 # RTC
 FirebaseRTC on Google
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/RTC/main/RTC_Architecture.png)
+
 # Firebase 
 
    * Firebase Hosting 託管 Web App 的 靜態資產
