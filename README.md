@@ -13,6 +13,16 @@ FirebaseRTC on Google
               在此代碼實驗室中，我們將重點介紹一種可在所有支持WebRTC的瀏覽器上使用的解決方案。
    
    * FirebaseRTC 聊天室 API (SDP)
+   
+# Applied Industry
+
+Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC instead of VNC / RDP.
+
+* Gaming
+
+* Science
+
+* Retail
 
 # Nodejs APP
 
