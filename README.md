@@ -19,6 +19,8 @@ the only solution currently available to enable high frame rate and low-bandwidt
 
 Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC instead of VNC / RDP.
 
+* Social Meida
+
 * Gaming
 
 * Science
