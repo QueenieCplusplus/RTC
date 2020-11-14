@@ -58,13 +58,13 @@ Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC
 # Chat Room
 
 在此應用程序中，每個視頻聊天會話稱為一個房間。
-用戶可以通過單擊應用程序中的按鈕來創建新房間。這將生成一個ID，供遠程方加入同一房間。
+用戶可以通過單擊應用程序中的按鈕來創建新房間。這將生成一個 ID，供遠程方加入同一房間。
 該ID用作Cloud Firestore中每個房間的密鑰。
 
 每個房間都將包含要約 Invitation 和答案 Answer 的 RTCSessionDescriptions 會議描述，
 以及來自各方的帶有 ICE 候選人的兩個單獨的集合。
 
-該ID用作Cloud Firestore中每個房間的密鑰。
+該 ID 用作 Cloud Firestore 中每個房間的密鑰。
 
 # RTC Concept
 
