@@ -8,17 +8,6 @@ Since Modern web browsers and platforms can decode H.264 video streams without a
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/RTC/main/RTC_Architecture.png)
 
-# Firebase 
-
-   * Firebase Hosting 託管 Web App 的 靜態資產
-   
-   * Cloud Firestore 可將結構化數據保存在雲端，並在數據更新時獲得即時通知 類似 Firebase Messaging
-   
-         注意：用於發信號的另一個選項可以是Firebase Cloud Messaging。但是，Chrome目前僅支持該功能，
-              在此代碼實驗室中，我們將重點介紹一種可在所有支持 WebRTC 的瀏覽器上使用的解決方案。
-   
-   * FirebaseRTC 聊天室 API (SDP)
-   
 # Applied Industry
 
 Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC instead of VNC / RDP.
@@ -36,6 +25,17 @@ Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC
     git clone https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App.git
     
     cd ChatRoom_Nodejs_App
+
+# Firebase 
+
+   * Firebase Hosting 託管 Web App 的 靜態資產
+   
+   * Cloud Firestore 可將結構化數據保存在雲端，並在數據更新時獲得即時通知 類似 Firebase Messaging
+   
+         注意：用於發信號的另一個選項可以是Firebase Cloud Messaging。但是，Chrome目前僅支持該功能，
+              在此代碼實驗室中，我們將重點介紹一種可在所有支持 WebRTC 的瀏覽器上使用的解決方案。
+   
+   * FirebaseRTC 聊天室 API (SDP)
     
 # Firebase Shell
 
