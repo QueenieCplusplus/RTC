@@ -2,6 +2,10 @@
 
 the only solution currently available to enable high frame rate and low-bandwidth streaming to a web browser, a low-latency streaming model for audio, video and binary data delivery for Web & Mobile apps.
 
+WebRTC is a protocol designed for secure low-latency streaming of video, audio, and arbitrary data. 
+
+Since Modern web browsers and platforms can decode H.264 video streams without any extra plugins. Once the client has a local GPU with hardware video decoding, WebRTC automatically uses the GPU to accelerate the decoding of the stream, which offloads work from the CPU and improves frame rates. The HTML5 video element is the only markup element required and enables streaming of content inline with existing websites, single app streaming, or full-screen remote-desktop use cases.
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/RTC/main/RTC_Architecture.png)
 
 # Firebase 
