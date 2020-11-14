@@ -1,6 +1,6 @@
 # RTC
 
-the only solution currently available to enable high frame rate and low-bandwidth streaming to a web browser.
+the only solution currently available to enable high frame rate and low-bandwidth streaming to a web browser, a low-latency streaming model for audio, video and binary data delivery for Web & Mobile apps.
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/RTC/main/RTC_Architecture.png)
 
