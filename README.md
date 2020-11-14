@@ -9,8 +9,26 @@ FirebaseRTC on Google
    
    * FirebaseRTC 聊天室 API
 
-# Test APP
+# Nodejs APP
 
     git clone https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App.git
     
     cd ChatRoom_Nodejs_App
+    
+# Firebase Shell
+
+    npm -g install firebase-tools
+    
+    check the version is v6.7.1
+    
+    firebase login
+    
+    firebase use --add
+    
+    firebase serve --only hosting
+    
+    [output]
+    hosting: Local server: http://localhost:5000
+    
+    您應該看到已連接到 Firebase 項目的 FirebaseRTC republicate。
+    該應用程序已自動連接到您的 Firebase 項目。
