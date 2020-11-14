@@ -55,7 +55,7 @@ Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC
     您應該看到已連接到 Firebase 項目的 FirebaseRTC republicate。
     該應用程序已自動連接到您的 Firebase 項目。
 
-# Chat Room
+# SDP
 
 在此應用程序中，每個視頻聊天會話稱為一個房間。
 用戶可以通過單擊應用程序中的按鈕來創建新房間。這將生成一個 ID，供遠程方加入同一房間。
