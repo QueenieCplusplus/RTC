@@ -7,7 +7,7 @@ FirebaseRTC on Google
    
    * Cloud Firestore 可將結構化數據保存在雲端，並在數據更新時獲得即時通知 類似 Firebase Messaging
    
-   * FirebaseRTC 聊天室 API
+   * FirebaseRTC 聊天室 API (SDP)
 
 # Nodejs APP
 
