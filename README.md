@@ -71,6 +71,8 @@ Actutally, the FB messenger & Google meet & Grome Remote Desktop Apps use WebRTC
 # RTC Concept
 
  https://cloud.google.com/solutions/gpu-accelerated-streaming-using-webrtc
+ 
+ https://developer.mozilla.org/zh-TW/docs/Web/API/WebRTC_API
 
 # Alternative Protocols
 
